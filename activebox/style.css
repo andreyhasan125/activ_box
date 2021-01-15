@@ -547,14 +547,8 @@ span{
 
 
 
-/*     Media
-===================*/
 
-@media (max-width: 991px) {
-    .intro__title{
-        font-size: 20px;
-    }
-}
+
 
 
 
